@@ -9,7 +9,10 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "brain.js": "^1.1.2"
+    "brain.js": "1.1.2"
   },
-  "description": "This is a simple example using brain.js machine learning library"
+  "description": "This is a simple example using brain.js machine learning library",
+  "repository": {
+    "url": "https://github.com/amalic/brainjs-example.git"
+  }
 }
