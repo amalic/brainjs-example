@@ -9,8 +9,11 @@ net.train([
     {input: { r: 0.5, g: 0.5, b: 1.0 }, output: { white: 1 }}
 ]);
 
+
+// some data for testing
 var input = { r: 1, g: 0.4, b: 0 };
 console.log(input);
 
+// let's test it
 var output = net.run(input);
 console.log(output);
