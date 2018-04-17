@@ -1,5 +1,5 @@
 # brainjs-example
-This app demonstrates simple machine learning with JavaScript. Please refer to [brain.js](https://github.com/BrainJS/brain.js) for more info.
+This app demonstrates machine learning with JavaScript. Please refer to [brain.js](https://github.com/BrainJS/brain.js) for more info.
 ## build
 ```
 docker build --rm -f Dockerfile -t brainjs:latest .
