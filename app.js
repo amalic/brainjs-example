@@ -1,5 +1,5 @@
+// setup
 const brain = require("brain.js")
-
 var net = new brain.NeuralNetwork();
 
 // let's train our network to predict if white or black text should be used for a given background-color
