@@ -1,17 +1,17 @@
 {
   "name": "brainjs-example",
   "version": "1.0.0",
+  "description": "This is a simple example using brain.js machine learning library",
+  "author": "",
+  "license": "MIT",
+  "repository": {
   "main": "app.js",
+    "url": "https://github.com/amalic/brainjs-example.git"
+  },
   "scripts": {
     "start": "node app.js"
   },
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "brain.js": "1.1.2"
-  },
-  "description": "This is a simple example using brain.js machine learning library",
-  "repository": {
-    "url": "https://github.com/amalic/brainjs-example.git"
   }
 }
